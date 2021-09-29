@@ -1,2 +1,2 @@
-<!-- azure login -->
-az login
+## azure login
+`az login`
