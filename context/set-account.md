@@ -1,2 +1,2 @@
  <!-- Set context to Subscription -->
-az account set -s <subscription-id>
+az account set -s [](subscription-id)
