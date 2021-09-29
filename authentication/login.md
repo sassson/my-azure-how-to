@@ -1,0 +1,2 @@
+<!-- azure login -->
+az login
